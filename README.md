@@ -19,9 +19,9 @@ This isn't tax advice! See a tax professional to get your taxes sorted out. (Mor
 The quick summary is there are no tax regulations that allow you to deduct coding bootcamp tuition from your income. There are a few big reasons why which I will explain below.
 
 ### Eligible Educational Institutions
-Most tax deductions and credits depend on your education expenses being made at an [eligible educational institution](https://www.irs.gov/individuals/eligible-educational-inst). Unfortunately no coding bootcamp is considered an eligible educational institution at this time. 
+Most tax deductions and credits depend on your education expenses being made at an [eligible educational institution](https://www.irs.gov/individuals/eligible-educational-inst). Unfortunately no coding bootcamp is considered an eligible educational institution at this time. **TODO: add some context to what makes an eligible institution**
 
-I will note that there is a possible exception to this rule in that some colleges/universities are now running their own coding bootcamps. If you went to these, you might possibly qualify. 
+I will note that there is a possible exception to this rule in that some colleges/universities are now running their own coding bootcamps. **At the moment I'm assuming I'm writing this document for App Academy graduates, so I won't expand further on this possibility currently**.
 
 ### Tax Credits
 Tax credits reduce your tax liability directly instead of reducting your taxable income. There are two that apply to education,  these are the American Opportunity Credit and Lifetime Learning Credit. Both depend on you attending an **eligible educational institution**. Since coding bootcamps don't qualify, we won't cover these any further.
