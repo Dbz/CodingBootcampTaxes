@@ -24,7 +24,7 @@ Most tax deductions and credits depend on your education expenses being made at 
 From the IRS website:
 _"An eligible educational institution is a school offering higher education beyond high school. It is any college, university, vocational school, or other post secondary educational institution eligible to participate in a student aid program run by the U.S. Department of Education."_
 
-I will note that there is a possible exception to this rule in that some colleges/universities are now running their own coding bootcamps. **At the moment I'm assuming I'm writing this document for App Academy graduates, so I won't expand further on this possibility currently**.
+I will note that there is a possible exception to this rule in that some colleges/universities are now running their own coding bootcamps. For example, Rutgers in New Jersey has coding bootcamp programs. **At the moment I'm assuming I'm writing this document for App Academy graduates, so I won't expand further on this possibility currently**.
 
 Source: [irs.gov: What is an Eligible Educational Institution?](https://www.irs.gov/individuals/eligible-educational-inst)
 
