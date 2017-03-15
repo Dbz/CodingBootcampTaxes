@@ -16,7 +16,7 @@ How to do Bootcamp related Taxes
 This isn't tax advice! See a tax professional to get your taxes sorted out. (More legit disclaimer pending)
 
 ### Summary / tldr
-The quick summary is there are no tax regulations that allow you to deduct coding bootcamp tuition from your income. There are a few big reasons why which I will explain below.
+The quick summary is there are most education-realted tax benefits do not allow you to deduct coding bootcamp tuition from your income. Below I explain why and possible exceptions. If in doubt, see a tax professional to get a definitive answer.
 
 ### Eligible Educational Institutions
 Most tax deductions and credits depend on your education expenses being made at an **eligible educational institution**. Unfortunately no coding bootcamp is considered an eligible educational institution at this time. 
