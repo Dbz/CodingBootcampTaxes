@@ -15,18 +15,6 @@ A guide to a common question
 
 This contributing section is modified from [Rubocop's contributing.md](https://github.com/bbatsov/rubocop/blob/master/CONTRIBUTING.md)
 
-### Todo / Outline
-
-- [x] Contributing
-- [ ] Disclaimer
-- [x] Summary
-- [ ] Breakdown of applicable tax regulations
-  - [X] Eligible Educational Institution
-  - [X] Education Tax Credits
-  - [X] Tuition and Fees Deduction
-  - [ ] Business Deduction for Work-Related Education
-- [ ] Sources
-
 ### Disclaimer
 This isn't tax advice! See a tax professional to get your taxes sorted out. (More legit disclaimer pending)
 
