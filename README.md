@@ -19,7 +19,7 @@ This contributing section is modified from [Rubocop's contributing.md](https://g
 
 - [x] Contributing
 - [ ] Disclaimer
-- [ ] Summary
+- [x] Summary
 - [ ] Breakdown of applicable tax regulations
   - [X] Eligible Educational Institution
   - [X] Education Tax Credits
@@ -30,7 +30,7 @@ This contributing section is modified from [Rubocop's contributing.md](https://g
 ### Disclaimer
 This isn't tax advice! See a tax professional to get your taxes sorted out. (More legit disclaimer pending)
 
-### Summary / tldr
+### Summary / tl;dr
 There is one single factor (in my research) that will determine if you can deduct coding bootcamp tuition from your taxes: were you in a programming career prior to attending? If yes, check out the **Business Deduction for Work-Related Education section**.
 
 For everyone else, unfortunately the quick summary is that most education-related tax benefits do not allow you to deduct coding bootcamp tuition from your income, and I'll explain why below. If in doubt or you don't want to listen to a stranger on the internet, see a tax professional to get a definitive answer.
@@ -63,7 +63,8 @@ Notice that this is the only tax deduction that doesn't explicitly require your 
 
 Source: [irs.gov: Business Deduction for Work-Related Education](https://www.irs.gov/publications/p970/ch12.html)
 
-### Other Possible Deduction
+### Other Possible Deductions / Exceptions
+None yet! Let us know if you think we missed one by filing an issue or making a pull request.
 
 ### Sources
 [What is an Eligible Educational Institution?](https://www.irs.gov/individuals/eligible-educational-inst)
