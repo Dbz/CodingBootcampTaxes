@@ -13,7 +13,7 @@ A guide to a common question
 * Open a [pull request](https://help.github.com/articles/using-pull-requests) that relates to *only* one subject with a clear title
   and description in grammatically correct, complete sentences.
 
-This contributing section is modified from [Rubocop's contributing.md](https://github.com/bbatsov/rubocop/blob/master/CONTRIBUTING.md)
+Source: [Rubocop's contributing.md](https://github.com/bbatsov/rubocop/blob/master/CONTRIBUTING.md)
 
 ### Disclaimer
 This isn't tax advice! See a tax professional to get your taxes sorted out. (More legit disclaimer pending)
