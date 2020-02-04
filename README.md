@@ -1,20 +1,6 @@
 # Can I Deduct My Coding Bootcamp Tuition On My Taxes?
 A guide to a common question
 
-## Contributing 
-
-* Read [how to properly contribute to open source projects on Github](http://gun.io/blog/how-to-github-fork-branch-and-pull-request).
-* Fork the project.
-* Use a topic/feature branch to easily amend a pull request later, if necessary.
-* Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
-* Commit and push until you are happy with your contribution.
-* If your change has a corresponding open Github issue, prefix the commit message with `[Fix #github-issue-number]`.
-* [Squash related commits together](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html).
-* Open a [pull request](https://help.github.com/articles/using-pull-requests) that relates to *only* one subject with a clear title
-  and description in grammatically correct, complete sentences.
-
-Source: [Rubocop's contributing.md](https://github.com/bbatsov/rubocop/blob/master/CONTRIBUTING.md)
-
 ### Disclaimer
 This isn't tax advice! See a tax professional to get your taxes sorted out. (More legit disclaimer pending)
 
@@ -60,3 +46,17 @@ None yet! Let us know if you think we missed one by filing an issue or making a 
 [Are Coding Bootcamps Tax Deductible?](http://blog.wefinance.co/are-coding-bootcamps-tax-deductible/)
 
 [Tax Benefits for Education](https://www.irs.gov/uac/tax-benefits-for-education-information-center)
+
+## Contributing 
+
+* Read [how to properly contribute to open source projects on Github](http://gun.io/blog/how-to-github-fork-branch-and-pull-request).
+* Fork the project.
+* Use a topic/feature branch to easily amend a pull request later, if necessary.
+* Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+* Commit and push until you are happy with your contribution.
+* If your change has a corresponding open Github issue, prefix the commit message with `[Fix #github-issue-number]`.
+* [Squash related commits together](http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html).
+* Open a [pull request](https://help.github.com/articles/using-pull-requests) that relates to *only* one subject with a clear title
+  and description in grammatically correct, complete sentences.
+
+Source: [Rubocop's contributing.md](https://github.com/bbatsov/rubocop/blob/master/CONTRIBUTING.md)
